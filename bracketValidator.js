@@ -20,7 +20,7 @@ function validateOpenersAndClosers(string){
     //define openers and closers that go together as key value pairs
     const openersToClosers = {
         '(': ')',
-        '[':']',
+        '[': ']',
         '{': '}'
     };
 
