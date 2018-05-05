@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="001ca3d0-f21d-4d68-a485-6e433fb693ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/bubbleSort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bracketValidator.js" beforeDir="false" afterPath="$PROJECT_DIR$/bracketValidator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/implementTwoStacks.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bracketValidator.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bracketValidator.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bracketValidator.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="implementTwoStacks.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/implementTwoStacks.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -141,6 +151,7 @@
         <option value="$PROJECT_DIR$/selectionSort.js" />
         <option value="$PROJECT_DIR$/bubbleSort.js" />
         <option value="$PROJECT_DIR$/bracketValidator.js" />
+        <option value="$PROJECT_DIR$/implementTwoStacks.js" />
       </list>
     </option>
   </component>
@@ -243,25 +254,25 @@
       <workItem from="1521658014562" duration="155000" />
       <workItem from="1521819225949" duration="631000" />
       <workItem from="1524951057118" duration="1099000" />
-      <workItem from="1525293642084" duration="2021000" />
+      <workItem from="1525293642084" duration="2768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7441000" />
+    <option name="totallyTimeSpent" value="8188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="674" y="24" width="1006" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24974619" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24974619" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5045685" side_tool="true" weight="0.32889965" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3293124" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49543148" visible="true" weight="0.32889965" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49543148" visible="true" weight="0.32889965" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -484,6 +495,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/implementTwoStacks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
