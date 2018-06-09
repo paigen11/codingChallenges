@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="001ca3d0-f21d-4d68-a485-6e433fb693ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/binarySearchOfSortedArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binaryTreeInorderTraversal.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -262,16 +260,15 @@
       <workItem from="1521819225949" duration="631000" />
       <workItem from="1524951057118" duration="1099000" />
       <workItem from="1525293642084" duration="3433000" />
-      <workItem from="1525872020098" duration="735000" />
+      <workItem from="1525872020098" duration="1437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9588000" />
+    <option name="totallyTimeSpent" value="10290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="674" y="24" width="1006" height="947" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24974619" />
       <window_info anchor="bottom" id="TODO" order="6" />
