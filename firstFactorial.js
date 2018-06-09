@@ -19,9 +19,11 @@ function FirstFactorial2(num) {
         return 1;
     }
     else {
-        return num * FirstFactorial(num - 1);
+        return num * FirstFactorial2(num - 1);
     }
 }
 
 // keep this function call here
 FirstFactorial();
+
+FirstFactorial2();
