@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="001ca3d0-f21d-4d68-a485-6e433fb693ea" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/maximumPairwiseProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/maximumPairwiseProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/euclideanGreatestCommonDivisor.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,18 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bracketValidator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bracketValidator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="implementTwoStacks.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/implementTwoStacks.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,11 +76,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="maximumPairwiseProduct.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="maximumPairwiseProduct.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/maximumPairwiseProduct.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="261">
               <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="euclideanGreatestCommonDivisor.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/euclideanGreatestCommonDivisor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -169,6 +169,7 @@
         <option value="$PROJECT_DIR$/fibonacciSequence.js" />
         <option value="$PROJECT_DIR$/lastDigitInFibonacciNumber.js" />
         <option value="$PROJECT_DIR$/maximumPairwiseProduct.js" />
+        <option value="$PROJECT_DIR$/euclideanGreatestCommonDivisor.js" />
       </list>
     </option>
   </component>
@@ -276,12 +277,12 @@
       <workItem from="1528580344972" duration="2000000" />
       <workItem from="1528750317832" duration="208000" />
       <workItem from="1532970597857" duration="4344000" />
-      <workItem from="1533151665986" duration="729000" />
+      <workItem from="1533151665986" duration="2569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17571000" />
+    <option name="totallyTimeSpent" value="19411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="674" y="23" width="1006" height="947" extended-state="0" />
@@ -290,12 +291,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info id="DB Browser" order="2" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5045685" side_tool="true" weight="0.32889965" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50518674" side_tool="true" visible="true" weight="0.32889965" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3293124" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49543148" visible="true" weight="0.32889965" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24896266" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49481326" visible="true" weight="0.32889965" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24896266" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -316,16 +317,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/binarySearchOfSortedArray.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="42" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/binaryTreePreorderTraversal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -730,6 +721,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euclideanGreatestCommonDivisor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
