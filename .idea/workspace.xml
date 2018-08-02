@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="001ca3d0-f21d-4d68-a485-6e433fb693ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/maximumPairwiseProduct.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maximumPairwiseProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/maximumPairwiseProduct.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -92,8 +91,11 @@
       <file leaf-file-name="maximumPairwiseProduct.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/maximumPairwiseProduct.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="67" selection-start-column="67" selection-end-column="67" />
+            <state relative-caret-position="261">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -274,12 +276,12 @@
       <workItem from="1528580344972" duration="2000000" />
       <workItem from="1528750317832" duration="208000" />
       <workItem from="1532970597857" duration="4344000" />
-      <workItem from="1533151665986" duration="486000" />
+      <workItem from="1533151665986" duration="729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17328000" />
+    <option name="totallyTimeSpent" value="17571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="674" y="23" width="1006" height="947" extended-state="0" />
@@ -292,8 +294,8 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.3293124" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49543148" visible="true" weight="0.32889965" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24896266" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49543148" visible="true" weight="0.32889965" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24896266" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -726,8 +728,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/maximumPairwiseProduct.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="67" selection-start-column="67" selection-end-column="67" />
+        <state relative-caret-position="261">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

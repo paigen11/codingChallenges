@@ -16,7 +16,7 @@ function maxPair(arr){
     }
 
 // check if length of array is less than 2
-    if(arr.length > 0 && arr.length < 2){
+    if(arr.length < 2){
         throw new Error('array must have at least 2 elements');
     }
 
