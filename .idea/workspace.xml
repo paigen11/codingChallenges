@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="001ca3d0-f21d-4d68-a485-6e433fb693ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/hugeFibonacciNumberModulo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asymptoticNotes.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,18 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="binarySearchOfSortedArray.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/binarySearchOfSortedArray.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="42" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="binaryTreeInorderTraversal.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/binaryTreeInorderTraversal.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,11 +76,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hugeFibonacciNumberModulo.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hugeFibonacciNumberModulo.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hugeFibonacciNumberModulo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="784">
               <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="asymptoticNotes.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/asymptoticNotes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -172,6 +171,7 @@
         <option value="$PROJECT_DIR$/maximumPairwiseProduct.js" />
         <option value="$PROJECT_DIR$/euclideanGreatestCommonDivisor.js" />
         <option value="$PROJECT_DIR$/hugeFibonacciNumberModulo.js" />
+        <option value="$PROJECT_DIR$/asymptoticNotes.js" />
       </list>
     </option>
   </component>
@@ -280,12 +280,12 @@
       <workItem from="1528750317832" duration="208000" />
       <workItem from="1532970597857" duration="4344000" />
       <workItem from="1533151665986" duration="5373000" />
-      <workItem from="1533665116677" duration="35000" />
+      <workItem from="1533665116677" duration="679000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22250000" />
+    <option name="totallyTimeSpent" value="22894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="674" y="23" width="1006" height="947" extended-state="0" />
@@ -320,13 +320,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/selectionSort.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bubbleSort.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -708,8 +701,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hugeFibonacciNumberModulo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="784">
           <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asymptoticNotes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
