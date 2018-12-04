@@ -31,6 +31,8 @@ function createQueue() {
   };
 }
 
+export default createQueue;
+
 const q = createQueue();
 console.log(q.isEmpty());
 
