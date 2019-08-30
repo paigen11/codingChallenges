@@ -24,7 +24,7 @@ function moneyChange(num) {
     num = num % 5;
   }
 
-  // calculate teh numer of 1 coins needed
+  // calculate the number of 1 coins needed
   if (num >= 1) {
     oneCoins = Math.floor(num / 1);
   }
@@ -33,4 +33,7 @@ function moneyChange(num) {
   return (totalCoins = tenCoins + fiveCoins + oneCoins);
 }
 
-moneyChange(997);
+console.log(moneyChange(7));
+console.log(moneyChange(82));
+console.log(moneyChange(643));
+console.log(moneyChange(997));
