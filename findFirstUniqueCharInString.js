@@ -1,6 +1,7 @@
 
 // Prompt: Given a string, write a function that returns the first unique character in a string.
 
+
 // example inputs "abcde" => a
 // example "12345" => 1
 // example input "aabcde" => b
@@ -11,7 +12,7 @@ const uniqueChar = (string) => {
     // define a local variable to keep track of current value in string using charAt() string method
     const currentChar = string.charAt(i);
     // first, check if the local variable's index valule is equal to the value of i or not - if not, it means a previous character in the string is a duplicate of the current character being checked
-
+    
     // second, check if the value in the string is present anywhere further down the string or not
     if (string.indexOf(currentChar) == i && string.indexOf(currentChar, i + 1) == -1) {
       // if both checks evaluate this is a unique character
@@ -21,6 +22,7 @@ const uniqueChar = (string) => {
   // if loop exits it means all values were duplicates and no unique values existed
   return 'No unique characters in the string';
 }
+// time complexity: (0)n^2 b/c of for-loop and then indexOf lookup
 
 const string1 = "abcde fghi abcd"
 const string2 = "12345"
