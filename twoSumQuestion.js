@@ -57,3 +57,19 @@ console.log(twoSum(arr1, 4));
 console.log(twoSum(arr2, 21));
 console.log(twoSum(arr3, 68));
 console.log(twoSum(arr4, 53));
+
+// another solution
+var twoSum = function(nums, target) {
+  // loop through nums array
+  for(let i = 0; i < nums.length; i++){
+  // create variable to hold diff between target minus current indice of array
+      let diff = target - nums[i];
+  // check if diff exists further along in array
+      if(nums.indexOf(diff, i + 1) !== -1){
+          return [i, nums.indexOf(diff, i + 1)]
+         }
+  // if it does, return current indice and indice of complement
+  // if it does not, continue through loop until reaching the end and there is no complement 
+  }
+  return 'no two values add up to this target';
+};
